@@ -88,7 +88,7 @@
     "@openreplay/tracker-axios": "^3.6.2",
     "@openreplay/tracker-fetch": "^3.6.2",
     "@openreplay/tracker-profiler": "^3.0.1",
-    "@sentry/integrations": "^7.24.1",
+    "@sentry/integrations": "^7.24.2",
     "@sentry/react": "^7.24.2",
     "@sentry/rrweb": "^0.3.3",
     "@sentry/tracing": "^7.24.2",
