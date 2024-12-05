@@ -91,7 +91,7 @@
     "@sentry/integrations": "^7.24.1",
     "@sentry/react": "^7.24.2",
     "@sentry/rrweb": "^0.3.3",
-    "@sentry/tracing": "^7.24.2",
+    "@sentry/tracing": "^7.25.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^14.4.3",
